@@ -1,4 +1,4 @@
-# JARVIS - Just A Rather Very Intelligent System
+# JARVIS-AI-2.0 - Just A Rather Very Intelligent System
 
 ![JARVIS Iron Man Assistant](jarvis/www/jarvis_ironman.png)
 
@@ -29,8 +29,8 @@ JARVIS is an advanced voice-controlled personal assistant inspired by the Iron M
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jarvis.git
-   cd jarvis
+   git clone https://github.com/jaikeerthi07/JARVIS-AI-2.0.git
+   cd JARVIS-AI-2.0
    ```
 
 2. Install required packages:
